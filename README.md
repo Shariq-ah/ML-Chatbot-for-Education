@@ -9,3 +9,8 @@ A chat bot is a type of computer program, which can communicate with human throu
 These are many advantages of chat bot, few namely:
 Available 24*7, cost saving, Quick to reply.
 Provision of personalized experience.
+
+**Approach**
+The model is TfidfVectorizer based on Machine Learning.
+Flask framework was used to create deployment
+

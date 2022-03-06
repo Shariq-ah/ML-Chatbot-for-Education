@@ -11,6 +11,6 @@ Available 24*7, cost saving, Quick to reply.
 Provision of personalized experience.
 
 **Approach**
+
 The model is TfidfVectorizer based on Machine Learning.
 Flask framework was used to create deployment
-

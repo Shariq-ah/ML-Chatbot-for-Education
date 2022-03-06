@@ -13,6 +13,9 @@ Provision of personalized experience.
 **Approach**
 
 The model is TfidfVectorizer based on Machine Learning.
+
 Flask framework was used to create deployment
+
 Accuracy = 90.12%
+
 Technologies - Python, NLP, Machine Learning, Flask
